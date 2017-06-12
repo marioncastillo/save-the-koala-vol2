@@ -1,0 +1,211 @@
+/*
+wood brown: A89F68;
+army green: 41521F;
+*/
+*{
+	font-family: 'Lato',sans-serif;
+}
+
+/* primera seccion */
+
+.navbar{
+	background-color: transparent;
+	border:transparent;
+	font-weight: bold;
+
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.icon-bar{
+	color: white;
+
+}
+.primersection{
+	background-image: url(../img/portada.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+.save{
+	margin-top:80%;
+	margin-left: 30%;
+	color: white;
+	font-weight: bold;
+	
+}
+.dos{
+	font-size: 25px;
+	font-weight: bold;
+	
+}
+
+.parrafouno{
+	color: white;
+}
+.btn{
+	background-color: #41521F;
+	color: white;
+	border:transparent;
+}
+
+/* segunda seccion */
+
+
+.textos{
+	margin-top: 20%;
+	margin-bottom:10%;
+	font-size: 15px;
+	color: #082A61;
+}
+
+.titulofundacion{
+	color: #A89F68;
+	font-weight: bold;
+}
+.titulocuatro{
+	color: #A89F68;
+	font-weight: bold;
+}
+#ph{
+	margin-top: 50px;
+}
+
+/* tercera seccion */
+.tres{
+	background-color:#A89F68;
+	color: white;
+
+}
+
+.titulotres{
+	color: #41521F;
+	font-weight: bold;
+}
+
+#cosita{
+	width: 100%;
+	border: 5px solid white;
+	margin-top: 5%;
+	margin-bottom:10%;
+}
+
+.textotres{
+	margin-top: 5%;
+	margin-left:10%;
+	margin-right: 10%;
+	margin-bottom: 10%;
+}
+
+/*seccion cuatro*/
+.cuatro{
+	background-image: url(../img/all.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+
+}
+
+.help{
+	color: white;
+	font-weight: bold;
+	text-shadow: 2px 2px 2px black;
+
+}
+
+.helpi{
+	margin-top: 20%;
+}
+/*seccion cinco*/
+.cinco{
+	margin:5%;
+}
+
+.textcinco{
+	margin-top: 2%;
+	color: #082A61;
+}
+
+#icono{
+	color: #A89F68;
+	font-size: 60px;
+	margin-bottom: 10%;
+}
+
+.titulocinco{
+	color: #A89F68;
+	font-weight: bold;
+}
+
+/*seccion seis*/
+
+.seis{
+	background-color: #A89F68;
+
+}
+
+.tituloseis{
+	color: #41521F;
+	font-weight: bold;	
+	margin-top: 50px;
+
+}
+.textseis{
+	color: #41521F;
+	padding: 30	px;
+	
+}
+
+.num{
+	color: white;
+	font-size: 70px;
+}
+
+.linea{
+	border-bottom: 1px solid white;
+	margin: 10%;
+}
+
+#donate{
+	margin-bottom: 10%;
+}
+
+#dolar{
+	color: white;
+	position: absolute;
+	margin-left: -50px;
+	margin-top: 20px;
+}
+
+.aud{
+	color: white;
+	position: absolute;
+	margin-left: 55%;
+	margin-top: -35px;
+
+}
+
+/* footer*/
+.pie{
+	background-color: #41521F;
+	padding:50px;
+	color: #A89F68;
+}
+
+.verde{
+	color: #A89F68;
+	
+	
+}
+
+.blanco{
+	color: white;
+}
+
+#mouse{
+cursor: pointer;
+}
